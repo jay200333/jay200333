@@ -1,7 +1,9 @@
 ## Hi there 👋
 ## 🌴 Tech Stack 🌴
 ### Platforms & Languages
-<img src="https://img.shields.io/badge/Android Studio-34A853?style=flat&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-34A853?style=flat&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+
 <!--
 **jay200333/jay200333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
