@@ -1,5 +1,7 @@
 ## Hi there 👋
-🌴 Tech Stack 🌴
+## 🌴 Tech Stack 🌴
+### Platforms & Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <!--
 **jay200333/jay200333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
