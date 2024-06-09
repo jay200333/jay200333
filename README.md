@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
 #### Tools
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
-
+## 😄 about me 😄
+<a href="https://jay20033.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://jay20033.tistory.com/"/></a>
 <!--
 **jay200333/jay200333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
