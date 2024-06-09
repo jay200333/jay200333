@@ -1,8 +1,7 @@
 ## Hi there 👋
 ## 🌴 Tech Stack 🌴
 ### Platforms & Languages
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+https://img.shields.io/badge/{Android Studio}-{3DDC84}?style={flat}&logo={Android Studio}&logoColor={3DDC84}
 <!--
 **jay200333/jay200333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
